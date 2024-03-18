@@ -1,0 +1,6 @@
+[submodule "first-springboot-jenkins"]
+	path = first-springboot-jenkins
+	url = https://github.com/hacker123shiva/first-springboot-maven-jenkins
+[submodule "java-first-jenkins"]
+	path = java-first-jenkins
+	url = https://github.com/hacker123shiva/first-java-jenkins-project

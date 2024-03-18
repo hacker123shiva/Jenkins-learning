@@ -1,0 +1,3 @@
+jenkins.pem
+# ignore all .git of child git
+**/.git
